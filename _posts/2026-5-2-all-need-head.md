@@ -10,6 +10,7 @@ pin: false            # 可选，设为 true 可以把文章置顶
 ---
 
 > `#include <bits/stdc++.h>` 找不到，这是 GCC/MinGW 编译器专属的万能头文件，微软官方的 MSVC 编译器不支持这个头文件，所以我们需要配置 MinGW 编译器，以下是保姆级教程。
+
 ### 1. 下载正确的预编译版
 
 打开这个地址下载官方预编译包：[mingw-w64-v8.1.0-release-posix-seh-rt_v6-rev0.7z](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/8.1.0/threads-posix/seh/x86_64-8.1.0-release-posix-seh-rt_v6-rev0.7z/download)
