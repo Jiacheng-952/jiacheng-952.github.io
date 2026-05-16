@@ -66,7 +66,7 @@ analytics:
   umami:
     id: 11a04aa2-4cc6-4a59-9455-019cfd08a2a2
     # fill in your Umami ID
-    domain: umami.is
+    domain: cloud.umami.is 
     # fill in your Umami domain
   matomo:
     id: # fill in your Matomo ID
